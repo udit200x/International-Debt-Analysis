@@ -1,10 +1,10 @@
 Table,Field,Description
-IDS_ALLCountries_Data,Country Name,
-IDS_ALLCountries_Data,Country Code,
-IDS_ALLCountries_Data,Counterpart-Area Name,
-IDS_ALLCountries_Data,Counterpart-Area Code,
-IDS_ALLCountries_Data,Series Name,
-IDS_ALLCountries_Data,Series Code,
+IDS_ALLCountries_Data,Country Name,Country names
+IDS_ALLCountries_Data,Country Code,3 letter country codes
+IDS_ALLCountries_Data,Counterpart-Area Name,counterpart name
+IDS_ALLCountries_Data,Counterpart-Area Code,counterpart code
+IDS_ALLCountries_Data,Series Name,series/indicator name
+IDS_ALLCountries_Data,Series Code,series/indicator code
 IDS_ALLCountries_Data,1970,
 IDS_ALLCountries_Data,1971,
 IDS_ALLCountries_Data,1972,
