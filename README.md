@@ -123,37 +123,4 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 - <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
 ## Contact me!
-
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
