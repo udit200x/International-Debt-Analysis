@@ -106,13 +106,13 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 
 
 **National Level**
-
+- At National level, debt is in relation to Debt to GDP Ratio, 
 
 
 **Global Level**
 - At Global level, debt is also owed to global economy, that is every liablity for a Government, Company, Bank or an Individual, is a **Asset** to another Government, Company, Bank or an Individual.
 
-- 
+- More global debt is benificial if it is used into projects that will produce more value in the global economy in long run.
 
 
 ## Author
