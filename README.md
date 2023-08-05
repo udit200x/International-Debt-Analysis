@@ -94,7 +94,7 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 1. **TWho do we owe all this money to?**
 2. **Can a debt load of three times GDP ever be sustainable?**
 3. **Is ther any responsible way to reduce this debt?**
-4. **
+4. **What could go wrong if we can't**
 
 
 
@@ -102,7 +102,7 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 # Debt at different levels
 
 **Individual Level**
-
+- At individual level, debt is where someone takes out a loan from someone else and pays it over time.
 
 
 **National Level**
@@ -110,7 +110,9 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 
 
 **Global Level**
+- At Global level, debt is also owed to global economy, that is every liablity for a Government, Company, Bank or an Individual, is a **Asset** to another Government, Company, Bank or an Individual.
 
+- 
 
 
 ## Author
