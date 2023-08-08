@@ -18,12 +18,25 @@ FROM
 	ids
 	;
 
+--Query 3)Total amount of Debt owed by countries for 2022
+SELECT 
+	country_name, SUM(_2022) AS Total_Debt_2022
+FROM
+	ids
+GROUP BY 1
+ORDER BY 1;
 
+--Query 4)Country with highest Total Debt in 2022
+SELECT
+	country_name, SUM(_2022) AS Total_Debt_2022
+FROM
+	ids
+GROUP BY 1
+ORDER BY 2 DESC
+LIMIT 8
+	;
 
-
-
-
-
+--Query 5)
 
 
 
