@@ -6,10 +6,6 @@ Welcome to my International Debt Analysis Portfolio Project! In this project, I 
 
 The focus of this project is to delve into the realm of international debt analysis and understand its dynamics in a specific context. By narrowing down the scope, I aim to provide in-depth insights that resonate with the complexities and challenges faced by the selected region/country.
 
-## **Reports**
-#### [Interactive report on Novapro]()
-#### [Interactive report on Tushar-Aggarwal.com]()
-#### [SQL Queries Report]()
 
 ## Project Structure
 
